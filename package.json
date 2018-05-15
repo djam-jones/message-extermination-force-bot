@@ -1,0 +1,14 @@
+{
+    "name": "message-extermination-force",
+    "version": "1.0.0",
+    "description": "This bot will automatically delete messages in a certain channel. Or on command.",
+    "main": "bot.js",
+    "scripts": {
+      "start": "node bot.js"
+    }, 
+    "author": "Djamali Jones",
+    "dependencies": {
+        "discord.io": "^2.5.3",
+        "winston": "^2.4.2"
+    }
+}
