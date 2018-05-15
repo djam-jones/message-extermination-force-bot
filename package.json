@@ -8,7 +8,6 @@
     }, 
     "author": "Djamali Jones",
     "dependencies": {
-        "discord.io": "^2.5.3",
-        "winston": "^2.4.2"
+        "discord.io": "11.1.0"
     }
 }
